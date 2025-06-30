@@ -1,0 +1,10 @@
+Click DETECT=點擊檢測
+Detect=檢測
+Exclude drives=排除硬碟
+Fan control function=風扇控制功能
+High temperature threshold=高溫閾值
+Low temperature threshold=低溫閾值
+Minimum PWM value=最低 PWM 值
+PWM controller=PWM 控制器
+PWM fan=PWM 風扇
+Refresh interval=刷新間隔

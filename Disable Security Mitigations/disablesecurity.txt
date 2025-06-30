@@ -1,0 +1,11 @@
+Disabling Spectre, Meltdown and Zombieload MDS mitigations may improve your CPU speed But these are security risks for certain workloads, and disabling the mitigations is purely all at your own risk=禁用 Spectre、Meltdown 和 Zombieload 安全補丁可能會提高 CPU 運行速度。但對某些工作負載將產生安全風險，禁用安全補丁的風險完全由您自己承擔。
+Mitigations currently disabled=已禁用安全補丁
+Mitigations currently enabled=已啟用安全補丁
+Status=狀態
+will be updated after rebooting the server=將在伺服器重啟後更新
+Enable Mitigations=啟用安全補丁
+Disable Mitigations=禁用安全補丁
+Disable Security Mitigations A Reboot Is Required For Changes To Take Effect=禁用安全補丁後需要重新啟動才能使更改生效
+A Reboot Is Required For Changes To Take Effect=需要重啟以使變更生效
+Mitigations will be enabled after a reboot=安全補丁將在重啟後啟用
+Mitigations will be disabled after a reboot=安全補丁將在重啟後禁用

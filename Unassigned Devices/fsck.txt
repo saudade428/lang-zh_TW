@@ -1,0 +1,10 @@
+Cannot determine file system on an encrypted disk=無法檢測加密磁碟上的文件系統
+Dirty log detected=檢測到汙損的日誌
+Executing file system check=正在執行文件系統檢測
+Executing file system scrub=正在執行文件系統清理（scrub）
+File system corruption detected=檢測到文件系統損壞
+File system corruption fixed=已修復文件系統損壞
+Force Log Zeroing=強制日誌置零
+No file system corruption detected=未檢測到文件系統損壞
+Note: While there is some risk, if it is not possible to first mount the filesystem to clear the log, zeroing it is the only option to try and repair the filesystem, and in most cases it results in little or no data loss=注意：如果無法掛載文件系統來清除日誌，置零日誌是唯一能嘗試修復文件系統的方法，儘管它有風險。在多數情況下，置零日誌幾乎（甚至完全）不會造成數據損失。
+Run with Correct flag=攜帶糾正標誌（Correct flag）運行

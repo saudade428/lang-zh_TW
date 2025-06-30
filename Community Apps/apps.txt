@@ -1,0 +1,462 @@
+Cancel=取消
+
+; My PSAs / banners
+Happy New Year=新年快樂
+Happy Holidays from Andrew, Tracey, and family=來自 Andrew、Tracey 和家人的節日快樂祝福
+Please Enjoy Responsibly=請盡情享受
+Popup Blocked CA requires popups to be enabled under certain circumstances You must white list your server within your browser to allow popups=社區應用中心需要在某些情況下彈出新窗口。您必須在瀏覽器中將服務加入彈出窗口的白名單，防止被攔截
+Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=未啟用Docker服務 - 僅可安裝或管理的插件
+Docker system failed to start - Only Plugins Available To Be Installed Or Managed=Docker服務啟動失敗 - 只能安裝或管理插件
+Array not started - Only Plugins Available To Be Installed Or Managed=硬碟陣列未啟動 - 僅可安裝或管理插件
+Community Applications works best when cookies are enabled in your browser Certain features may not be available=社區應用程式在瀏覽器啟用 Cookie 時效果最佳，部分功能可能無法使用
+Backup Server Active Some icons may not appear, and plugin installations may be affected=當備份伺服器處於活動狀態時，部分圖示可能無法顯示，插件安裝也可能會受到影響
+Debugging enabled This significantly increases the memory used by your browser=啟用除錯會顯著增加瀏覽器的記憶體占用
+Browser translation detected Display issues may result=檢測到瀏覽器啟用翻譯, 這可能導致顯示問題
+Action Centre Enabled=操作中心已啟用
+Deprecated OS version No further updates to Community Applications will be issued for this OS version=已過時的操作系統版本 - 這個版本的操作系統將不會接收到社區應用的後續更新
+
+; Sorting Options
+Sort By=排序
+Name Ascending=名稱升序
+Name Descending=名稱降序
+Downloads=下載量排序
+Date Added=更新日期排序
+Number Of Apps=應用程式數量
+; Initial disclaimer translations
+Disclaimer=免責聲明
+All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=此處列出的所有應用程式均由第三方提供, 應用程式的作者或 Limetech 均不對應用程式的相容性做出任何保證
+Every attempt is made to ensure that only safe and compatible applications are present=我們已盡力確保只提供安全且相容的應用程式
+Application Policy=應用程式政策
+I Understand=我了解
+Installations of apps disabled You must accept the warning to be able to install applications=已阻止安裝應用程式. 您必須接受警告才能安裝應用程式
+Click here=單擊此處
+%s Results Per Page=每頁顯示 %s 個結果
+Results Per Page: %s=每頁顯示結果數量：%s
+
+; Plugin Disclaimer
+Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=社區應用程式包含Docker容器和插件應用。插件是為增強操作系統使用而設計的，以完整權限在您的系統上運行，並在社區應用中心明確標識
+Plugin Note=插件說明
+
+; Multi Install
+Install Plugin Applications=安裝插件應用程式
+Select all on page=全選本頁
+Install Application=安裝應用程式
+Install Applications=安裝應用程式
+Update Application=升級應用
+Update Applications=升級應用程式
+Are you sure you want to update %s applications=確定要更新 %s 個應用程式嗎?
+Are you sure you want to install %s docker and %s plugin applications=你確定要安裝%s docker和%s插件應用程式嗎？
+
+; Searches
+Search=搜索
+Click Here To Get More Results From DockerHub=單擊此處從 DockerHub 獲取更多結果
+No Matching Applications Found=找不到匹配的應用程式
+
+; Repository Related
+%s removed as favourite repository=將 %s 從收藏的應用中移除
+%s set as favourite repository=將 %s 設置為收藏的應用
+Click to remove favourite repository=點擊移除收藏的應用
+Click to set %s as favourite repository=點擊設置 %s 為收藏的應用
+Search for apps in repository=在儲存庫中搜索應用
+No description present=目前沒有描述
+Go to the forum page=論壇頁面
+Go to the webpage=Web 頁面
+Go to reddit=Reddit 頁面
+Go to facebook=Facebook 頁面
+Go to discord=Discord 頁面
+Go to forum profile=轉到論壇個人資料
+Show Profile=顯示資料
+SHOW MORE=顯示更多
+SHOW LESS=顯示更少
+Read more=閱讀更多
+Total Applications=應用程式總計
+Total Known Downloads=已知下載總計
+Total Docker Applications=Docker 應用程式總計
+Total Plugin Applications=插件應用程式總計
+Total Languages=語言包總計
+Average Downloads Per App=應用平均下載量
+Web Page=Web 頁面
+Forum=論壇
+Forum Profile=論壇個人資料
+Profile=個人資料
+Facebook=Facebook
+Reddit=Reddit
+Twitter=Twitter
+Discord=Discord
+Search Apps=搜索應用程式
+Registry=Docker 註冊表
+Details=詳情
+Added=添加日期
+; Install Plugin title of openbox
+Install Plugin=安裝插件
+Update Plugin=升級插件
+
+Requirements not met=未滿足要求
+The requirements for this upgrade have not been met on your system=您的系統尚未滿足此升級的要求
+The sidebar for the app click info will list the details=(點擊資訊)將在側邊欄列出應用程式的詳細資訊
+
+BACK=返回
+
+; Remove App from previously installed
+Delete Template=刪除模板
+Yes, delete it=確定刪除
+
+; Uninstall popup
+Uninstall Application=移除應用程式
+Yes uninstall it=確定卸載
+
+; Remove Private Application
+Remove Private Application=移除私人應用程式
+Yes, remove it=確定移除
+
+; App Pinning
+Click to pin this application=單擊以固定此應用程式
+Click to unpin this application=單擊取消固定此應用程式
+Pin App=固定應用程式
+Unpin App=取消固定應用程式
+
+; Branch installations
+Choose A Branch To Install=選擇要安裝的分支
+
+; Multiple application installs
+; no apps selected
+Install Selected Applications=安裝選定的應用程式
+
+Yes, install it=確定安裝
+
+; Multi-install popup
+Yes, install them=確定安裝
+Cookies not enabled Plugins must be separately installed from docker applications=未啟用Cookie. 這些插件必須與Docker應用分開安裝
+Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker應用程式將使用最近保存的模板進行安裝, 無需用戶手動配置
+Updating Support Links=正在更新支持連結
+Downloading docker icons=正在下載docker圖示
+Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=已完成安裝。如果未出現“完成”按鈕，則需要單擊右上角的紅色 X
+
+; error messages
+An error occurred Could not find any %s Apps=發生錯誤, 找不到任何關於 %s 的應用
+Download of appfeed failed=應用程式資源文件下載失敗
+; the %s here refers to a function being called
+Something really went wrong here=遇到了一些問題
+Post the ENTIRE contents of this message in the Community Applications Support Thread=在社區應用支持對話中發布此消息的**全部**內容
+Unknown error happened Please post a screenshot in the support thread of the Statistics screen=發生未知錯誤   請在統計螢幕的支持對話中發布螢幕截圖
+This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=此插件的名稱與另一個插件 %s 重複, 您不能同時安裝這兩個插件
+You have been logged out=你已註銷
+Fatal Flash Drive Error=致命快閃記憶體驅動器(隨身碟)錯誤
+This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=這通常意味著您的快閃記憶體驅動器(隨身碟)已損壞或離線. 如果此錯誤繼續存在, Unraid GUI的其餘部分也將受到影響, 請在Unraid論壇中回饋
+Fatal Docker Image Error=致命的Docker鏡像錯誤
+Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=這個問題可能是因為您的docker鏡像或文件夾是只讀的, 或無可用空間. 你應該在Unraid論壇中創建一個新帖子, 並附上您系統的診斷資訊
+This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=此模板使用自訂的網路設定, 您可能需要調整網路設定如 IP 地址等以匹配您的系統
+This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=此應用模板設置為以特權身份運行, 這可能存在安全風險, 通常不需要啟用. 請注意, 有些應用程式需要在特權模式下才能正常運行
+One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=此應用程式使用的一個或多個埠已被伺服器上運行的另一服務或應用程式使用, 您需要在模板上調整相關埠
+Not Enough Memory=記憶體不足
+Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=社區應用程式中心和Unraid操作系統的最低記憶體要求為4G。如果不滿足, 社區應用程式中心(CA)就無法運行
+Run Anyways=總是運行
+Memory Requirements not met Problems may result=未達到記憶體要求，可能導致問題
+Installation already in progress=已經開始安裝進程
+Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=正在進行另一個插件的安裝或更新, 此插件無法啟動. 請等待當前安裝或更新完成, 然後重試
+%s is incompatible with your OS version Please update the OS to proceed=%s 與您的Unraid OS版本不相容, 請升級Unraid OS後再試
+%s is incompatible with your OS version Either uninstall %s or update the OS=%s 與您的Unraid OS版本不相容, 請卸載或者升級Unraid OS
+Browser failed to communicate with Unraid Server=瀏覽器未能成功與 Unraid 伺服器聯繫
+For unknown reasons, your browser was unable to communicate with Community Applications running on your server=因未知原因，您的瀏覽器無法成功與您伺服器上的社區應用聯繫
+Attempt to Fix Via Reload Page=嘗試重新載入頁面以修復
+
+; CA Sections Keep the length reasonable
+Home=首頁
+Installed Apps=已安裝的應用
+Previous Apps=以前的應用
+Pinned Apps=固定的應用
+Favourite Repo=收藏的應用
+Action Centre=操作中心
+Recently Added=最近添加
+Random Apps=隨機應用
+Top New Installs=熱門新安裝應用
+Top Trending Apps=熱門應用
+Spotlight Apps=推薦應用
+All Apps=所有應用
+Statistics=統計資訊
+Credits=貢獻者
+Support=支持
+VERSION=版本
+Change Log=更新日誌
+Debugging=除錯
+
+; Credits
+Development=開發
+Additional Contributions=其他貢獻
+GUI Layout Design=GUI布局設計
+Application Feed=應用程式源
+Additional Testing=附加測試
+Moderation=審核
+Additional Libraries=附加庫
+Copyright=版權
+Translation=翻譯
+
+; Statistics page
+
+unknown=未知
+Last Change To Application Feed=應用程式源的最新更改
+Docker Applications=Docker應用
+Plugin Applications=插件應用
+Templates=模板
+Official Containers=官方容器
+Repositories=代碼倉庫
+Private Docker Applications=私人Docker應用
+Invalid Templates=無效模板
+Template Errors=模板錯誤
+Blacklisted Apps=黑名單應用
+Incompatible Applications=不相容的應用程式
+Deprecated Applications=已棄用的應用程式
+Moderation Entries=審核條目
+Primary Server=主伺服器
+Backup Server=備用伺服器
+Installs not allowed from this page=不允許從此頁面進行安裝
+
+; Statistics Popup
+No invalid templates found=未找到無效模板
+These templates are invalid and the application they are referring to is unknown=這些模板無效, 它們指向未知的應用程式
+No templates were automatically fixed=沒有模板被自動修復
+All of these errors found have been fixed automatically=所有找到的錯誤已被自動修復
+Note that many of these errors can be avoided by following the directions=請注意, 遵循使用說明可避免許多錯誤
+HERE=此處
+The following plugins have duplicated filenames and are not able to be installed simultaneously=以下插件的檔案名重複, 無法同時安裝
+The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=以下docker應用引用相同的儲存庫, 但模板中的配置可能進行了細微的更改
+If any of these entries are incorrect then contact the moderators of CA to discuss=如果其中任何一個條目不正確, 請聯絡社區應用中心(CA)的版主進行討論
+Global Repository Comments=全局儲存庫注釋
+Applied to all applications=(適用於所有應用程式)
+Individual Application Moderation=個人應用程式審核
+
+; Misc
+Community Applications Changelog=Community Applications 變更日誌
+
+Each month we highlight some of the amazing work from our community=每個月我們都會聚焦一些社區裡令人驚嘆的工作
+Check out these newly added applications from our awesome community=從社區了解這些新增的應用程式
+Check out these up and coming apps=了解這些即將推出的應用
+These apps have the highest percentage of new installs=這些應用的安裝率最高
+An assortment of randomly chosen apps=隨機選擇的各種應用
+Featured Applications=特色應用
+
+; Categories try not to be excessively long This is displayed on the left of CA screen
+
+Backup=備份
+Cloud=雲服務
+Crypto Currency=加密貨幣
+Downloaders=下載程序
+Drivers=驅動
+Game Servers=遊戲伺服器
+Home Automation=家庭自動化
+Media Applications=媒體應用程式
+Books=書籍
+Music=音樂
+Photos=照片
+Video=影片
+Other=其他
+Media Servers=媒體伺服器
+Network Services=網路服務
+DNS=DNS
+FTP=FTP
+Management=管理
+Messenger=Messenger
+Proxy=代理
+VOIP=VoIP
+VPN=VPN
+Web=Web
+Privacy=隱私
+Productivity=生產力
+Security=安全性
+Spotlight=推薦
+Tools Utilities=工具/實用程序
+System=系統
+Themes=主題
+Utilities=實用程序
+Private Apps=私人應用
+Uncategorized=未分類
+
+; Categories displayed within a popup or on the card.  Where an entry exists after the "=" it is not translated, but rather how it should look
+GameServers=遊戲伺服器
+HomeAutomation=家庭自動化
+MediaApp=媒體應用
+MediaAppBooks=媒體應用：書籍
+MediaAppMusic=媒體應用：音樂
+MediaAppPhotos=媒體應用：照片
+MediaAppVideo=媒體應用：影片
+MediaAppOther=媒體應用：其他
+MediaServer=媒體伺服器
+MediaServerBooks=媒體伺服器：書籍
+MediaServerMusic=媒體伺服器：音樂
+MediaServerPhotos=媒體伺服器：照片
+MediaServerVideo=媒體伺服器：影片
+MediaServerOther=媒體伺服器：其他
+Network=網路
+NetworkDNS=網路：DNS
+NetworkFTP=網路：FTP
+NetworkManagement=網路：管理
+NetworkProxy=網路：代理
+NetworkVOIP=網路：VoIP
+NetworkVPN=網路：VPN
+NetworkPrivacy=網路隱私
+NetworkWeb=網路：Web
+NetworkOther=網路：其他
+ToolsSystem=工具：系統
+ToolsThemes=工具：主題
+ToolsUtilities=工具：實用程序
+OtherUncategorized=其他：未分類
+and %s more=和另外 %s
+
+; App Popup Related
+This application template has been blacklisted=此應用程式模板已被列入黑名單
+This application template has been deprecated=此應用程式模板已棄用
+This application has additional requirements=此應用程式有附加的要求
+Additional Requirements=附加要求
+Donate To Author=給作者捐贈
+Donate To Maintainer=給維護者捐贈
+CLOSE=關閉
+Author=作者
+Maintainer=維護者
+DockerHub=DockerHub
+Application Template=應用程式模板
+DockerHub Stars=DockerHub 收藏數
+Added to CA=已添加到社區應用中心(CA)
+Date Updated=日期已更新
+Current Version=當前版本
+Min OS=最低系統(OS)
+Max OS=最高系統(OS)
+Total Downloads=總下載量
+Popularity=受歡迎的
+Licence=許可證
+Ranked #%s=排名＃%s
+; as in Trending up or down arrow
+Trending %s=趨勢 %s
+; as in As of some date
+As of %s=（截至 %s）
+Play Video=播放影片
+Play Video %s=播放 %s
+This application is not compatible with your version of Unraid=此應用程式與您的 Unraid 系統版本不相容
+Another browser tab or device has updated the displayed templates Some actions are not available=另一個瀏覽器標籤頁或設備已更新當前顯示的模板。某些操作不可用
+WebUI=WebUI
+Reinstall=重新安裝
+Reinstall From Previous Apps=重新安裝舊版本的應用
+Install=安裝
+Uninstall=卸載
+Project=項目
+Read Me First=先閱讀此處
+Install Using The Templates Default Tag=使用模板的默認標籤進行安裝
+Moderator Comments=管理員評論
+Note not all authors keep up to date on change logs=請注意, 並非所有開發人員的變更日誌都保持最新狀態
+Note not all maintainers keep up to date on change logs=請注意, 並非所有維護者的變更日誌都保持最新狀態
+Last Update=最後更新
+Note All statistics are only gathered every 30 days=所有統計數據每30天收集一次
+;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
+Donate=捐贈
+Currently Installed Version=當前安裝的版本
+Install The Update=安裝更新
+; as in you have the latest version already installed
+Latest Version=最新版本
+Multi Language Support=多語言支持
+Support Forum=論壇支持
+; as in more than 100000
+More than %s=超過 %s
+Remove from Previous Apps=從以前的應用中移除
+Remove=移除
+See All Apps=查看所有應用
+Favourite=收藏
+Application Type=應用類型
+
+; Graphs
+Trend Per Month=每月趨勢
+Downloads Per Month=每月下載量
+
+; Multi install script
+Installing docker applications %s=安裝Docker應用 %s
+Starting %s=正在啟動 %s
+%s failed to start You should install it by itself to fix the errors=%s 無法啟動, 您可以嘗試讓它以默認設置安裝以修復錯誤
+Setting installed applications to autostart=將已安裝的應用程式設定為自動啟動
+Docker Application Installation finished=Docker 應用程式安裝完成
+
+; Application Cards
+Actions=更多操作
+Pending=待處理
+This application is a driver plugin=此應用程式是一個驅動程序/插件
+This is a language pack=這是一個語言包
+This application is a docker container=此應用程式是一個docker容器
+This application is a plugin=此應用程式是一個插件
+This is a spotlight application=這是一個推薦應用
+This is your favourite repository=這是您收藏的儲存庫
+This application is from your favourite repository=此應用程式來自您收藏的儲存庫
+This application is pinned for later viewing=此應用程式已固定供稍後查看
+Private Application=私人應用程式
+Remove Application From List=從列表中移除應用程式
+Check off to select multiple reinstalls=選中多個項目來重新安裝
+Go to the plugin settings=轉到插件設置
+Click to reinstall the application using default values=單擊以採用預設選項重新安裝該應用程式
+Click to edit the application values=單擊以編輯應用程式值
+Click to reinstall=單擊以重新安裝
+Click to install=單擊以安裝
+Click to go to the WebUI=單擊以轉到網頁用戶界面
+This application template has been deprecated=此應用程式模板已棄用
+This application template has been blacklisted=此應用程式模板已被列入黑名單
+Click info to see the notes regarding this application=單擊資訊以查看有關此應用程式的注釋
+This application has additional requirements=此應用程式有附加的要求
+BETA=測試版
+INSTALLED=已安裝
+OFFICIAL=官方版
+UPDATED=有更新
+This is an official container=這是一個官方容器
+Digitally Signed=數位簽章
+This container is digitally signed=此容器經過數位簽章
+Docker Hub=Docker Hub
+NOTE You must visit the dockerHub page to gather the information required to install correctly=注意：您必須訪問 Docker Hub 頁面來收集正確安裝所需的資訊
+Show CA templates=顯示社區應用模板
+Deprecated=已棄用
+Incompatible=不相容
+Blacklisted=已加入黑名單
+Template Exists=模板存在
+Template already exists in Apps=模板已存在於應用中
+; eg: LinuxServer Repository
+%s Repository=%s 儲存庫
+; eg: Squid's Repository
+%s's Repository=%s 的儲存庫
+
+Info=資訊
+Attention=注意
+Repository=儲存庫
+Why we picked it=我們為什麼選它
+Application Spotlight %s=推薦應用 %s
+Unraid Staff=Unraid 員工
+
+; Page Navigation
+Displaying %s - %s of %s=正在顯示 %1$s - %2$s（總共為 %3$s）
+
+Updating Content=正在更新內容
+Language=語言
+Switch to this language=切換到此語言
+Country Code=國家代碼
+Install Language Pack=安裝語言包
+Remove Language Pack=移除語言包
+Update Language Pack=更新語言包
+Installed Version=已安裝的版本
+A note about translations=翻譯說明
+Click here to view the language changelog=單擊此處查看語言包的更改日誌
+View Missing Translations=查看缺少的翻譯
+
+; Update Checks
+Check For Updates=檢查更新
+Check for updates already running=檢查更新已經運行
+Checking for docker container updates=檢查docker容器更新
+Checking for plugin updates=檢查插件更新
+Checking for language updates=檢查語言包更新
+Checking %s=正在檢查 %s
+
+; dockerHub conversions
+Determine configuration=確定配置
+Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=您是否希望CA嘗試確定模板的任何適用路徑、埠和變數？這將涉及對容器進行測試安裝。處理完成後，它將被自動刪除。容器將不會啟動。
+An error occurred - Could not determine configuration=發生錯誤 - 無法確定配置
+; WebGui
+Click Install to download and install the Community Applications plugin=點擊“安裝”以下載並安裝社區應用插件
+
+
+; Note: April 21, 2025 - 5 missing translations
+Clear Flag=
+Additional information may be within Tools, PHPSettings - View Log=
+External Link=
+Clicking OK will take you to a 3rd party website not associated with Limetech=
+Install another instance=

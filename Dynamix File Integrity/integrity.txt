@@ -1,0 +1,5 @@
+Aborted - export file not found=已終止 - 未找到導出文件
+Import=導入
+Build up-to-date=構建已是最新
+Export up-to-date=導出已是最新
+Operation aborted=操作已終止

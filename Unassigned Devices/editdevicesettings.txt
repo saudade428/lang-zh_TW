@@ -1,0 +1,103 @@
+Abort Device Script=中止設備腳本
+Attach=附加
+Attach This Disk=附加此磁碟
+Attaching=正在附加
+Automount=自動掛載
+Default=恢復默認
+Delete Device Script File=刪除設備腳本文件
+Detach=脫離
+Detach This Disk=脫離此磁碟
+Detaching=正在脫離
+Device Script=設備腳本
+Device Script content=設備腳本內容
+Disable Mount and Unmount Button=關閉掛載與卸載按鈕
+Disable Mount Button=關閉掛載按鈕
+Disk Name=磁碟名稱
+Disk Serial=磁碟序列
+Edit Device Script=編輯設備腳本
+Enter Device Script File Name=輸入設備腳本檔案名稱
+Enter and Edit the Device Script that runs when a udev or operator event occurs=輸入並編輯設備腳本，設備腳本在 udev 或 operator 事件發生時運行
+Enter the User Script File Name=輸入用戶腳本檔案名稱
+Enter the User Script that will be using this device=輸入使用此設備的用戶腳本
+Enter the volume to mount on this apfs partition=輸入此 APFS 分區需要掛載的卷
+Load the default Device Script=載入默認設備腳本
+Run in background=在後台運行
+Mark this Device as passed through to a VM or Docker=標記此設備直通虛擬機或 Docker
+Mount Device Read only=只讀掛載設備
+Mount Device when Plugged in or Array is Started=在設備插入或陣列啟動時掛載設備
+Mount ISO File when Array is Started=在陣列啟動時掛載 ISO 文件
+Mount Point=掛載點
+Mount Remote Share Read only=只讀掛載遠程共享
+Mount Remote SMB or NFS Share when Array is Started=在陣列啟動時掛載遠程 SMB 或 NFS 共享
+Note: Enable SMB Sharing or NFS Export in Unassigned Devices Settings to share this device=注意：在 Unassigned Devices（未分配的設備）設置中啟用 SMB 共享或 NFS 導出以共享此設備
+Passed Through=已直通
+Read Only=只讀
+Run Device Script File in the background=在後台運行設備腳本文件
+Save your Device Script File=保存設備腳本文件
+Save your Device Script File changes=保存設備腳本文件更改
+Share Device with SMB and NFS=使用 SMB 和 NFS 共享設備
+Share Remote Mount with SMB and NFS=使用 SMB 和 NFS 共享遠程掛載
+Show all partitions on this device by default=默認顯示此設備的所有分區
+Show Partitions=顯示分區
+Source=源
+Unassigned Devices Settings=Unassigned Devices（未分配的設備）設置
+Undo your changes since last Save=撤銷自上次保存以來的更改
+User Script=用戶腳本
+Volume=卷
+ZFS Volume=ZFS 卷
+
+;
+; Help
+;
+:ud_edit_script_device_settings_plug:
+> 為此設備及掛載點指定選項。
+:end
+
+:ud_edit_script_detach_plug:
+> 點擊**脫離**以脫離設備。該設備將顯示為歷史設備並可在歷史設備設定中附加。
+:end
+
+:ud_edit_script_attach_plug:
+> 點擊**附加**以附加已經脫離的設備。此選項會使設備就像新近安裝一樣，並且在“自動掛載”打開時自動掛載。設備需要一些時間處理才會顯示在 Unassigned Devices 中。
+:end
+
+:ud_edit_script_abort_plug:
+> 點擊**中止**以中止設備腳本。
+:end
+
+:ud_disk_name_plug:
+> 為此設備輸入別名。在此輸入的名稱是你想要用來指代該設備的名稱。留空則自動分配“devX”格式的名稱。
+>
+> **名稱**：最多 8 字元，空格將被轉換為連字號，允許基本的特殊字元，區別大小寫。
+>
+> **注意**：不能以“dev”作為開頭。格式“devX”被保留。 
+:end
+
+:ud_edit_script_choose_name_plug:
+> 設備掛載時會運行此腳本。從文件選擇下拉菜單中選擇腳本檔案名稱，也可以輸入所需腳本。
+:end
+
+:ud_edit_user_script_choose_name_plug:
+> 如果已安裝 User Script 插件，Unassigned Devices 可以顯示使用此設備的用戶腳本的運行狀態。此欄位只在設備腳本文件存在時可用。
+:end
+
+:ud_edit_script_run_background_plug:
+> 設為**是**讓設備腳本作為後台任務運行。當從 Unassigned Device UI 運行腳本時，可避免 UI 停止響應。
+:end
+
+:ud_edit_script_buttons_plug:
+> 點擊**恢復默認**使用默認設備腳本重設編輯框。你仍需點擊**保存**來保存腳本更改。
+>
+> 點擊**保存**以保存設備腳本文件。
+>
+> 點擊**刪除**以刪除設備腳本文件。
+>
+> 點擊**重設**以撤銷未保存的任何更改。
+>
+> 點擊**應用**以提交當前設置。
+>
+> 點擊**完成**以退出此頁面。
+:end
+
+; Note: February 10, 2024 - 1 missing translations
+Click to select file or click Default button for the Device Script File=

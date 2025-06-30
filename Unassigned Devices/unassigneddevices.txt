@@ -1,0 +1,264 @@
+Add ISO File Share=添加 ISO 文件共享
+Add Remote SMB=添加遠程 SMB
+Add Root Share=添加根共享
+All Unassigned Devices configurations will be updated=將更新所有 Unassigned Devices 配置
+All disks will be refreshed using udev=將使用 udev 刷新所有磁碟
+An XFS, BTRFS, or ZFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=使用 Unassigned Devices 創建的 XFS、BTRFS 或 ZFS 分區磁碟只需添加到陣列中即可被陣列讀寫
+Any data on this disk will be lost=此磁碟上的所有數據都將清除
+Are you sure=你確定嗎
+Auto mount=自動掛載
+Back=返回
+Browse Disk Share=瀏覽磁碟共享
+Browse ISO File Share=瀏覽 ISO 文件共享
+Browse Remote SMB=瀏覽遠程 SMB
+Check the syslog for details=檢查系統日誌以獲取詳情
+Choose File System Format=選擇文件系統格式
+Choose ISO File=選擇 ISO 文件
+Choose NFS Server=選擇 NFS 伺服器
+Choose SMB Server=選擇 SMB 伺服器
+Choose Share=選擇共享
+Click on Icon to Choose Protocol=點擊圖示以選擇協議
+Change Disk Mount Point=更改磁碟掛載點
+Change ISO File Mount Point=更改 ISO 文件掛載點
+Change Remote Share Mount Point=更改遠程共享掛載點
+Change SMB=更改 SMB
+Changing the Mount Point will also change the disk label on all disks and the pool name on a ZFS disk=更改掛載點還將更改所有磁碟上的磁碟標籤和 ZFS 磁碟上的儲存池名稱
+Clear=清除
+Click to select ISO file=點擊選擇 ISO 文件
+Click to view/hide partitions and mount points=點擊顯示/隱藏分區與掛載點
+Complete=完成
+Device=設備
+Disks=磁碟
+Disk Label=磁碟標籤
+Disk Log Information=磁碟日誌資訊
+Disk Sharing must be disabled to add a Root Share=磁碟共享必須關閉才能添加根共享
+Do NOT use a remote share local mount in a Docker container or VM for critical data=不要在 Docker 容器或虛擬機中使用本地掛載的遠程共享儲存關鍵數據
+Do not put files or folders into the /mnt/rootshare/ folder=不要在 /mnt/rootshare/ 目錄下存放文件
+Domain=域
+Edit Device Script=編輯設備腳本
+Edit ISO File Script=編輯 ISO 文件腳本
+Edit Remote SMB=編輯遠程 SMB
+Encrypt CIFS Mount=加密 CIFS 掛載
+Enter the Domain for the share if on a Domain=若共享在域中，輸入域
+Enter the Password if the share is password protected=若共享由密碼保護，輸入密碼
+Enter the Username if the share is password protected=若共享由密碼保護，輸入使用者名稱
+Enter the password to use for this disk=輸入用於此磁碟的密碼
+Enter the server name and it will be added to the local DNS names and will then resolve by name=輸入伺服器名稱，它將被添加到本地DNS名稱中，並通過名稱解析
+Exclusive Share files will not be accessible in a Root Share=獨占共享的文件無法在根共享中訪問
+Execute Script as udev simulating a device being installed=udev 模擬設備安裝時執行腳本
+Fail=失敗
+failed to=失敗
+Failed to get data to refresh page=無法獲取數據並刷新頁面
+file share for=文件共享
+File System Check=文件系統檢查
+File System Scrub=文件系統清理（scrub）
+Format=格式化
+Formatting=正在格式化
+Free=剩餘
+from disk=從磁碟
+Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=在“設置->全局共享設置”頁面調整“啟用磁碟共享”為“自動”或“否”
+Historical=歷史
+Historical Device is=歷史設備
+Identification=身份驗證
+If SMB shares do not show, check your credentials=如果 SMB 共享未顯示，請檢查你的憑據
+If the IP address of the server shows in the list after searching, your DNS server is not resolving the name=完成搜索後，如果列表中顯示的是伺服器 IP 地址而不是名稱，代表你的 DNS 伺服器並沒有解析名稱
+If this disk was pre-cleared, you will remove the pre-clear signature=如果此磁碟已預清除，這麼做將會移除預清除標記（pre-clear signature）
+If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=如果你將磁碟添加到陣列中並且預清除標記（pre-clear signature）已移除，Unraid 將啟動再次清除磁碟的冗長進程
+Invalid Configuration - Remove and Re-add=無效的配置 - 刪除並重添加
+is offline=離線
+ISO File is=ISO 文件
+ISO File Shares=ISO 文件共享
+If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=如果磁碟設置了密碼，請確保在 Unassigned Devices（未分配的設備）設置中為此磁碟輸入了密碼，使之能夠掛載
+Device=設備
+Leave blank to use the array passwordpassphrase=留空使用陣列密碼
+Load Shares=載入共享
+Loading=正在載入
+Log=日誌
+Mount=掛載
+Mount Point=掛載點
+Mounting=正在掛載
+Next=下一個
+NFS Mount Point=NFS 掛載點
+NFS or ISO File Shares configured=NFS 或 ISO 文件共享已配置
+NFS Script=NFS 腳本
+NFS Share=NFS 共享
+NFS Shares=NFS 共享
+No Remote SMB=未配置遠程 SMB
+No Unassigned Disks available=沒有可用的未分配設備
+Not Enabled=未啟用
+not installed=未安裝
+Note=注意
+offline=離線
+User Shares=用戶共享
+User Shares without Pools=不含儲存池的用戶共享
+You must enable NFS in Settings->NFS to mount NFS shares=你必須在“設置->NFS”處啟用 NFS 才能掛載 NFS 共享
+You must enable SMB in Settings->SMB to mount SMB shares=你必須在“設置->SMB”處啟用 SMB 才能掛載 SMB 共享
+Open=打開
+Partition=分區
+Partition and Format Disk=分區並格式化磁碟
+Passed=已直通
+Passed Through=已直通
+Password=密碼
+Pool=儲存池
+Preclear=預清除
+Read only=只讀
+Reboot=重啟
+Refresh Disks and Configuration=刷新磁碟與配置
+Remember your password It cannot be recovered=記住密碼，一旦忘記，密碼無法恢復
+Remote Server is=遠程伺服器是
+Remote Shares=遠程共享
+Remote Shares online status will be reset=遠程共享線上狀態將重設
+Remote share mounts are dependent on a solid and reliable network connection and that can be difficult to achieve=遠程共享掛載依賴於穩定可靠的網路連接，而那可能難以實現
+Remove Device configuration=刪除設備配置
+Remove ISO File Share=移除 ISO 文件共享
+Remove Partition=刪除分區
+Remove Remote SMB=移除遠程 SMB
+Remove partition=刪除分區
+Running=正在運行
+Script=腳本
+Search For Servers=尋找伺服器
+Search for Servers, or enter the Server name or IP address manually=尋找伺服器，或手動輸入伺服器名稱或 IP 地址
+Search for Shares or enter the Share name manually=尋找共享，或手動輸入共享名稱
+Searching=正在尋找
+Select the Root Share=選擇根共享
+Serial Number Mount Point=序號（掛載點）
+Shares=共享
+Share Type=共享類型
+share for=共享
+Show/Hide Historical Unassigned Devices=顯示/隱藏歷史未分配的設備
+Show/Hide SMB/NFS/ISO Shares=顯示/隱藏 SMB/NFS/ISO 共享
+Show/Hide Unassiged Disk Devices=顯示/隱藏未分配的磁碟設備
+Simple=簡單
+SMB Shares=SMB 共享
+Source=源
+SSD cannot be spun down=SSD 無法停轉
+Success=成功
+Show Historical Devices=顯示歷史設備
+Show SMB/NFS/ISO Shares=顯示 SMB/NFS/ISO 共享
+Show Disk Devices=顯示磁碟設備
+This is a way to gather Unraid shares into one Root Share=這是一種將 Unraid 共享文件夾聚合進一個根目錄共享的方式
+This will remove the ISO file share for=這將會移除下列 ISO 文件共享
+This will remove the=這將會移除
+This will remove the saved configuration of=這將會刪除下列已保存配置
+This will remove the=這將會移除
+Timeout: Failed to get unassigned devices information - check the syslog=超時：獲取未分配設備資訊失敗 - 請檢查系統日誌
+to confirm=以確定
+to format=以格式化
+Unassigned Devices Settings=Unassigned Devices（未分配的設備）設置
+Unassigned Disk Devices=未分配的磁碟設備
+Unassigned Disks=未分配的磁碟
+Unmount=卸載
+Unmounting=正在卸載
+Use caution when gathering shares into one Root Share=將共享文件夾聚合為根共享時請小心
+Used=已使用
+User Shares=用戶共享
+User Shares without Pools=不含儲存池的用戶共享
+User Shares - allow access to User Shares, including Cache and Pool files=用戶共享 - 允許對包括快取池和儲存池文件在內的用戶共享的訪問
+User Shares without Pools - allow access to User Shares, but the Root Share will not include Cache and Pool files=不含儲存池的用戶共享 - 允許對除快取池和儲存池文件之外的用戶共享的訪問
+Username=使用者名稱
+View Device Script Log=查看設備腳本日誌
+View ISO File Script Log=查看 ISO 文件腳本日誌
+WARNING=警告
+When you copy files between shares in the Root Share, the files may not end up on the expected disks=在根共享的共享文件夾內複製文件時，文件可能不會複製到期望的磁碟上
+Working=正在工作
+You can also subject yourself to security issues like ransomware by exposing all your shares in one Root Share=將所有共享文件夾暴露在唯一的根共享內可能使你自己面臨勒索軟體等安全問題
+You must enable NFS in Settings->NFS to mount NFS shares=你必須在“設置->NFS”處啟用 NFS 才能掛載 NFS 共享
+You must enable SMB in Settings->SMB to mount SMB shares=你必須在“設置->SMB”處啟用 SMB 才能掛載 SMB 共享
+You must enable the Destructive Mode in UD Settings before you can Format this disk=你必須在 Unassigned Devices（未分配的設備）設置中啟用破壞性模式才能格式化此磁碟
+You WILL have problems if you do=你將會面臨問題，如果你（做）
+ZFS Pool Name=ZFS 儲存池名稱
+ZFS Volume=ZFS 卷
+
+:unassgned_devices_switches_plug:
+> 打開**磁碟**開關顯示磁碟設備，關閉它則隱藏磁碟設備。
+>
+> 打開**共享**開關顯示共享，關閉它則隱藏共享。
+>
+> 打開**歷史**開關顯示歷史磁碟設備，關閉它則隱藏歷史磁碟設備。
+>
+> 點擊 <i class="fa fa-refresh"></i> 圖示刷新磁碟和配置。
+>
+> 點擊 <i class="fa fa-gear"></i> 圖示跳轉到 Unassigned Devices（未分配的設備）設置。
+>
+> 點擊 <i class='fa fa-circle orb green-orb'></i> 或 <i class='fa fa-circle orb grey-orb'></i> 圓形指示器使磁碟停轉或啟動。只在 6.9 RC2 及以上版本生效。
+>
+> 點擊 <i class="fa fa-gears"></i> 圖示跳轉到設備設定。在設備設定中可配置設備腳本和特性。
+>
+> 點擊 <i class="icon-nvme"></i> 或 <i class="fa fa-hdd-o"></i> 圖示顯示特定於此磁碟設備的系統日誌條目。
+>
+> **掛載點圖示：**
+>
+> 掛載點旁顯示 <i class='fa fa-pencil'></i> 圖示時表示該掛載點可點擊更改。
+>
+> 掛載點旁顯示 <i class='fa fa-external-link'></i> 圖示時表示該掛載點可透過點擊來瀏覽對應分區。
+>
+> 點擊 <i class="fa fa-align-left"></i> 圖示顯示設備腳本日誌。此日誌特定於設備腳本。
+>
+> 點擊 <i class="fa fa-check"></i> 圖示執行文件系統檢查。BTRFS 和 ZFS 文件系統在掛載後才能檢查。對 BTRFS 和 ZFS 文件系統的檢查作用為清理（scrub）。
+>
+> 點擊 <i class="fa fa-flash"></i> 圖示手動運行設備腳本。此圖示只對磁碟設備生效。
+:end
+
+:unassigned_devices_general_help_plug:
+> **Unassigned Devices 簡稱為 UD**。
+>
+> 將滑鼠指針懸浮在 UD 頁面任何啟用區域上，一個提示氣泡將會顯示此區域的功能。
+> 通過 UD，你可以掛載 USB 設備、SATA 磁碟、遠程 SMB/NFS 共享和 ISO 文件。開啟自動掛載的設備將在陣列啟動時自動掛載。所有磁碟及 SMB/NFS 掛載將在陣列停止，觸發“stopping_svcs”事件時卸載。
+> 如果你想共享磁碟，可以打開共享開關。遠程 SMB 共享的默認設置是公共讀寫，可在 Unassigned Devices（未分配的設備）設置中按用戶配置 SMB 安全。NFS 設備的導出在 Unassigned Devices（未分配的設備）設置中開啟，權限則是讀寫。你還可以設置一個在每次掛載時執行得通用腳本。要共享任何 UD 設備，必須在 UD（未分配的設備）設置中開啟共享功能，並打開共享特定設備的開關。SMB/NFS 遠程共享和 ISO 掛載總是共享的。
+> 輸入掛載點後，按 &lt;Enter&gt; 保存更改。
+>
+> 點擊設備標識的 <i style='color:black;font-weight:bold;' class="fa fa-plus-square"></i> 圖示，可以看到額外選項。設備掛載點可在設備未掛載時更改。磁碟標籤也將更改。磁碟可被格式化或運行 fsck 檢查。
+>
+> 為了讓 SMB 及 NFS 共享正常工作，“設置->Unassigned Devices（未分配的設備）”內的 SMB 及 NFS 安全選項必須正確配置。
+>
+> SMB/NFS 遠程共享的按鈕變灰，代表遠程伺服器沒有響應 ping 請求。遠程共享服務其必須響應 ping 請求，否則 UD 會認定其離線。
+>
+> 啟用磁碟共享時“添加根共享”按鈕不可用，之前添加的任何根共享都不會掛載。
+>
+> UD 有一個允許刪除磁碟分區及格式化磁碟的破壞性模式。如果未在 UD 設置中啟用破壞性模式，你無法格式化磁碟或刪除分區。在“設置->Unassigned Devices（未分配的設備）”頁面啟用破壞模式。
+>
+> **格式化磁碟**：
+>
+> + 破壞性模式必須啟用。
+> + 磁碟上的所有分區必須已經刪除。卸載磁碟，點擊 <i style='color:black;font-weight:bold;' class='fa fa-plus-square'></i> 圖示，然後點擊所有的 <i style='color:red;font-weight:bold;' class='fa fa-remove hdd'></i> 圖示來刪除分區。
+> + 如果磁碟已經預清除並顯示灰色的“格式化”按鈕，點擊 <i style='color:black;font-weight:bold;' class='fa fa-plus-square'></i> 圖示，然後點擊 <i style='color:red;font-weight:bold;' class='fa fa-remove hdd'></i> 圖示以刪除預清除狀態文件。
+>
+> **注意：使用 UD 分區的磁碟可被陣列讀寫，只需添加到陣列中。支持 XFS、加密的 XFS、BTRFS、加密的 BTRFS、ZFS 和加密的 ZFS**。
+>
+> **加密的磁碟**：
+>
+> + 任何在 UD 中格式化的加密磁碟都將使用陣列密碼並可整合進陣列。你也可以在格式化時設置獨立的密碼。若要在格式化磁碟時設置密碼，請在“Unassignd Devices->設置”頁面輸入該磁碟的密碼。 
+> + 任何未使用陣列密碼的加密磁碟可通過在“Unassignd Devices->設置”頁面設置對應的密碼來掛載。
+>
+> **未分配磁碟的腳本**：
+>
+> UD 包含了一個腳本，可用來掛載、卸載設備及 SMB/NFS 掛載（SMB/NFS mounts）。可在命令行或你自己的腳本中按需使用。
+>
+> + '/usr/local/sbin/rc.unassigned mount autodevices' - 所有開啟自動掛載的設備都將掛載。
+> + '/usr/local/sbin/rc.unassigned mount autoshares' - 所有開啟自動掛載的 SMB/NFS 掛載（SMB/NFS mounts）都將掛載。
+> + '/usr/local/sbin/rc.unassigned umount auto' - 所有開啟自動掛載的設備及 SMB/NFS 掛載（SMB/NFS mounts）都將卸載。
+> + '/usr/local/sbin/rc.unassigned umount all' - 所有設備及 SMB/NFS 掛載（SMB/NFS mounts）都將卸載以備停止陣列。
+> + '/usr/local/sbin/rc.unassigned mount /dev/sdX or devX' - 掛載磁碟設備。
+> + '/usr/local/sbin/rc.unassigned mount name=diskname' - 按磁碟名稱掛載磁碟設備。
+> + '/usr/local/sbin/rc.unassigned umount /dev/sdX or devX' - 卸載磁碟設備。可將此命令寫入腳本，以便在腳本完成時卸載設備。
+> + '/usr/local/sbin/rc.unassigned umount name=diskname' - 按磁碟名稱卸載磁碟設備。
+> + '/usr/local/sbin/rc.unassigned spindown /dev/sdX or devX' - 停轉磁碟設備。
+> + '/usr/local/sbin/rc.unassigned spindown name=diskname' - 按磁碟名稱停轉磁碟設備。
+> + '/usr/local/sbin/rc.unassigned detach /dev/sdX or devX' - 脫離 USB 磁碟設備。可將此命令寫入腳本，以便在腳本完成時脫離設備。
+> + '/usr/local/sbin/rc.unassigned attach serial - 附加磁碟設備。可將此命令寫入腳本以附加設備。
+> + '/usr/local/sbin/rc.unassigned mount source' - source 為 SMB/NFS 源。
+> + '/usr/local/sbin/rc.unassigned umount source' - source 為 SMB/NFS 源。
+>
+> 注意：/dev/sdX 的“X”是設備代號。devX 是 UD 頁面顯示的設備名稱。如果設備名稱是“Dev 1”，則使用 dev1 作為要停轉的設備。 要在用戶腳本中對磁碟執行 UD 操作，可使用 name=磁碟名稱。
+>
+> 使用 /dev/sdX 或 devX 代號時請注意，它們可在重啟後改變。在 UD 腳本中訪問 sdX（DEVICE）和 devX（UD_DEVICE）時最好使用傳入的參數。
+:end
+
+; Note: April 21, 2025 - 7 missing translations
+Historical Unassigned Devices=
+No script file to execute=
+Script is already running=
+Script Log=
+View NFS Script Log=
+View SMB Script Log=
+You may need to enter credentials to list the shares=
